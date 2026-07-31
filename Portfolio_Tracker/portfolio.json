@@ -1,0 +1,12 @@
+[
+    {
+        "stock": "MSFT",
+        "avg_price": 520.0,
+        "quantity": 2
+    },
+    {
+        "stock": "AAPL",
+        "avg_price": 122.5,
+        "quantity": 3
+    }
+]

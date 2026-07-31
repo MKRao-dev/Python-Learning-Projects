@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2026-07-31",
+        "action": "BUY",
+        "stock": "MSFT",
+        "price": 520.0,
+        "quantity": 7
+    },
+    {
+        "date": "2026-07-31",
+        "action": "SELL",
+        "stock": "MSFT",
+        "price": 520.0,
+        "quantity": 5
+    },
+    {
+        "date": "2026-07-31",
+        "action": "BUY",
+        "stock": "GOOG",
+        "price": 190.0,
+        "quantity": 8
+    },
+    {
+        "date": "2026-07-31",
+        "action": "BUY",
+        "stock": "AAPL",
+        "price": 210.0,
+        "quantity": 4
+    },
+    {
+        "date": "2026-07-31",
+        "action": "SELL",
+        "stock": "GOOG",
+        "price": 190.0,
+        "quantity": 4
+    },
+    {
+        "date": "2026-07-31",
+        "action": "BUY",
+        "stock": "AAPL",
+        "price": 210.0,
+        "quantity": 3
+    },
+    {
+        "date": "2026-07-31",
+        "action": "SELL",
+        "stock": "AAPL",
+        "price": 122.5,
+        "quantity": 4
+    },
+    {
+        "date": "2026-07-31",
+        "action": "SELL",
+        "stock": "GOOG",
+        "price": 190.0,
+        "quantity": 4
+    }
+]
